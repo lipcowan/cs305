@@ -19,4 +19,4 @@
 - I used stack overflow and github resources to check similar examples and search for the cause of the errors. 
 
 ### Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this assignment might you want to showcase to a future employer?
-- A very poor first attempt at a course I was not prepared to take, I plan to retake this course again.
+- This is my second time taking this course and I learned a lot more this time around. I think the best way to learn is with practice though - I will take what I learned and do some more projects to make sure I can implement the things I learned quickly. 
